@@ -1,0 +1,9 @@
+{
+	"name": "accesstokengetter",
+	"description": "Twitter Access Token Getter",
+	"copyright": "Copyright © 2015, alphakai",
+	"authors": ["alphaKAI"],
+	"dependencies": {
+    "twitter4d":"*"
+	}
+}
